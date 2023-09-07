@@ -5,5 +5,4 @@
     "react": "latest",
     "react-dom": "latest"
   },
-  "main": "index.tsx"
 }
