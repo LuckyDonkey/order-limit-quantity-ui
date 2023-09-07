@@ -8,6 +8,7 @@
   "name": "zrjgnj",
   "description": null,
   "version": "0.0.0",
+  "main": "src/index.tsx",
   "devDependencies": {
     "react-scripts": "1.0.0"
   },

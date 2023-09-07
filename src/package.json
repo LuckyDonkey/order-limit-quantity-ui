@@ -4,5 +4,6 @@
     "@shopify/polaris-icons": "latest",
     "react": "latest",
     "react-dom": "latest"
-  }
+  },
+  "main": "index.tsx"
 }
