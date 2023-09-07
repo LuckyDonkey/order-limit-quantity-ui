@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@shopify/polaris": "latest",
+    "@shopify/polaris-icons": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "name": "zrjgnj",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
