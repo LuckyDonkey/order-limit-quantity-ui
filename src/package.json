@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "@shopify/polaris": "latest",
-    "@shopify/polaris-icons": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  },
-}
